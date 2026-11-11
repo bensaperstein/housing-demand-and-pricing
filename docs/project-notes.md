@@ -34,4 +34,4 @@ Recommendations are proposals, not measured business outcomes. Future learning o
 
 ## Review status
 
-This repository is private for my review. Publishing it requires a separate approval; the original source document's sharing settings are unchanged.
+This repository was published with my approval. The original source document's sharing settings are unchanged.
