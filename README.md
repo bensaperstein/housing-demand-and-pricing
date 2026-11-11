@@ -64,4 +64,4 @@ I authored the final report and used AI assistance with the software. This repos
 
 This is documentation of the completed project. The original report and analysis have not been changed or rerun. No respondent-level survey data, raw Stata session log, or reconstructed code is included.
 
-The report link retains its current Drive permissions; this private repository does not change access to the source document.
+The report link retains its current Drive permissions; this repository does not change access to the source document.
